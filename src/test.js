@@ -1,5 +1,4 @@
 import string from './css.js'
-
 const player = {
     id: undefined,
     time: 100,
